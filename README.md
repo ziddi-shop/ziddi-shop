@@ -1,7 +1,7 @@
 
 <h3><img  style="align-item" :"center" src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="90px" height="80%">
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐒𝐇𝐀𝐒𝐇𝐀𝐍𝐊+𝐗𝐃+🖤+🥀"></b>
- <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+A Passionate Tech Enthusiast from India"> </b>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐙𝐈𝐃𝐃𝐈+𝐒𝐇𝐎𝐏+🖤+🥀"></b>
+
 </h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
