@@ -1,30 +1,72 @@
 
-<h1 align="center">Hey 🔥, I'm Ziddi</h1>
-<h3 align="center">A Passionate Tech Enthusiast from India</h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="90px" height="80%">
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐒𝐇𝐀𝐒𝐇𝐀𝐍𝐊+𝐗𝐃+🖤+🥀"></b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziddi-shop&label=Profile%20views&color=0e75b6&style=flat" alt="ziddi-shop" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziddi-shop" alt="ziddi-shop" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ziddi_beatz" target="blank"><img src="https://img.shields.io/twitter/follow/ziddi_beatz?logo=twitter&style=for-the-badge" alt="ziddi_beatz" /></a> </p>
-
-- 📫 How to reach me **[ziddi](https://telegram.me/ziddi_beatz)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ziddi_beatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziddi_beatz" height="30" width="40" /></a>
-<a href="https://instagram.com/yknowxritik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yknowxritik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ziddi_shop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ziddi_shop" height="30" width="40" /></a>
-<a href="https://t.me/ziddi_shop" target="blank">
-  <img align="center" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" alt="ziddi_shop" height="30" width="40" />
-</a>
+<b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/ziddi-shop/count.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+[<img src="https://telegra.ph/file/23955bd1b4114fb73e72b.jpg"/>](https://github.com/ziddi-shop)
+<h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziddi-shop&show_icons=true&locale=en&layout=compact" alt="ziddi-shop" /></p>
+[<img src="https://github-readme-stats.vercel.app/api?username=ziddi-shop&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/ziddi-shop)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziddi-shop&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/ziddi-shop)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziddi-shop&show_icons=true&locale=en" alt="ziddi-shop" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziddi-shop&" alt="ziddi-shop" /></p>
+
+
+
+## My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziddi-shop&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziddi-shop&layout=compact&theme=midnight-purple&hide=Css)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ziddi-shop)
+
+
+# Some Projects
+
+<a href="https://github.com/ziddi-shop/Neko-Image-Generate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziddi-shop&repo=Neko-Image-Generate&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/ziddi-shop/Free_Rdp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziddi-shop&repo=Free_Rdp&cache_seconds=86400&theme=gotham">
+</a>
+
+
+<a href="https://github.com/ziddi-shop/code_editor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziddi-shop&repo=code_editor&cache_seconds=86400&theme=gotham">
+</a>
+
+[<img src="https://github.com/ziddi-shop/ziddi-shop/blob/master/resources/hr.gif"/>](https://github.com/ziddi-shop)
+
+<h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6762113050) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/ziddi-shop) 
+
+
+
+<details>
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<a href="https://t.me/ziddi_beatz1"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+</details>
+
+
+
+        
+
+
+
+
+
+
+
+## Connect with Me
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ziddi-shop)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ziddi_beatz1)
+
+
+
+
+                     
