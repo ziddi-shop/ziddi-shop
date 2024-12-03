@@ -8,7 +8,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/ziddi-shop/count.svg" />
 </p>
 
-[<img src="https://telegra.ph/file/23955bd1b4114fb73e72b.jpg"/>](https://github.com/ziddi-shop)
+[<img src="https://i.ibb.co/q7kcZCh/1-jpg.jpg"/>](https://github.com/ziddi-shop)
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=ziddi-shop&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/ziddi-shop)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziddi-shop&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/ziddi-shop)
