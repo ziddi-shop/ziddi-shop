@@ -50,7 +50,7 @@
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<a href="https://t.me/ziddi_beatz1"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/yknowxkunal"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 
 
