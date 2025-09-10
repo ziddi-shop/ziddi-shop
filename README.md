@@ -44,7 +44,9 @@ const ziddi = {
 
 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬
 
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,git,github,vscode">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,git,github,vscode" alt="Tech Stack: Python, JavaScript, HTML5, CSS3, React, Node.js, Express.js, Git, GitHub, VS Code" />
+</p>
 
 
 ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ: ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴘʏᴛʜᴏɴ, ʜᴛᴍʟ5, ᴄꜱꜱ3
