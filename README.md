@@ -1,16 +1,24 @@
-# 💫 Welcome to My Digital Universe
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=220&section=header" />
+</p>
 
-<div align="center">
-  <img src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="120px" height="120px" style="border-radius: 50%; border: 3px solid #FF4000; box-shadow: 0 0 20px rgba(255, 64, 0, 0.5);">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF4000&center=true&vCenter=true&width=800&lines=✨+Welcome+to+ZIDDI+SHOP+✨;🚀+Full+Stack+Developer+🚀;💻+Open+Source+Enthusiast+💻;🎯+Building+Amazing+Projects+🎯" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75000&width=600&lines=Hey+There!+I'm+Ziddi+Shop;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%93;Tech+Explorer+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="140px" height="140px" style="border-radius:50%;" />
+</p>
+
+<h2 align="center">нι, ι'м zι∂∂ι ѕнσρ 👋 </h2>
+
+<p align="center">
+  💻 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 🌐 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 | 🚀 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝙻𝚘𝚟𝚎𝚛
+</p>
 
 ---
 
-## 🌟 About Me
-
-<img align="right" src="https://i.ibb.co/q7kcZCh/1-jpg.jpg" width="300px" style="border-radius: 15px; margin-left: 20px;">
+<h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 
 ```javascript
 const ziddi = {
@@ -21,114 +29,65 @@ const ziddi = {
     currentFocus: "Building awesome projects",
     funFact: "I debug with coffee ☕"
 };
-```
 
-### 🎯 What I Do
-- 🔥 Creating innovative web applications
-- 🚀 Building scalable solutions
-- 💡 Contributing to open source
-- 🎨 Designing beautiful user interfaces
-- 📱 Mobile app development
+ 𝐈'𝐦 𝐚 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬, 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐧𝐠 𝐭𝐨 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞, 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬. 𝐈 𝐥𝐨𝐯𝐞 𝐭𝐮𝐫𝐧𝐢𝐧𝐠 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐫𝐞𝐚𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐝𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚 𝐜𝐮𝐩 𝐨𝐟 𝐜𝐨𝐟𝐟𝐞𝐞 𝐢𝐧 𝐡𝐚𝐧𝐝!
 
----
 
-## 📊 GitHub Analytics
+🎯 ᴡʜᴀᴛ ɪ ᴅᴏ
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziddi-shop&count_private=true&show_icons=true&theme=react&custom_title=GitHub+Statistics&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF4000&icon_color=FF4000&text_color=FFFFFF" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziddi-shop&theme=react&hide_border=true&bg_color=0D1117&title_color=FF4000&ring=FF4000&fire=FF4000&currStreakLabel=FF4000" width="48%">
-</div>
+🔥 ᴄʀᴇᴀᴛɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ
+🚀 ʙᴜɪʟᴅɪɴɢ ꜱᴄᴀʟᴀʙʟᴇ ꜱᴏʟᴜᴛɪᴏɴꜱ
+💡 ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ ᴛᴏ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ
+🎨 ᴅᴇꜱɪɢɴɪɴɢ ʙᴇᴀᴜᴛɪꜰᴜʟ ᴜꜱᴇʀ ɪɴᴛᴇʀꜰᴀᴄᴇꜱ
+📱 ᴍᴏʙɪʟᴇ ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziddi-shop&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF4000&text_color=FFFFFF&hide=css,html" width="50%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziddi-shop&custom_title=Contribution+Graph&bg_color=0D1117&color=FF4000&line=FF4000&point=FFFFFF&area=true&hide_border=true" width="100%">
-</div>
 
----
+🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬
 
-## 🔥 Featured Projects
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,git,github,vscode">
 
-<div align="center">
-  <a href="https://github.com/ziddi-shop/Neko-Image-Generate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziddi-shop&repo=Neko-Image-Generate&theme=react&hide_border=true&bg_color=0D1117&title_color=FF4000&text_color=FFFFFF&icon_color=FF4000" width="48%">
-  </a>
-  <a href="https://github.com/ziddi-shop/Free_Rdp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziddi-shop&repo=Free_Rdp&theme=react&hide_border=true&bg_color=0D1117&title_color=FF4000&text_color=FFFFFF&icon_color=FF4000" width="48%">
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/ziddi-shop/code_editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziddi-shop&repo=code_editor&theme=react&hide_border=true&bg_color=0D1117&title_color=FF4000&text_color=FFFFFF&icon_color=FF4000" width="48%">
-  </a>
-</div>
+ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ: ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴘʏᴛʜᴏɴ, ʜᴛᴍʟ5, ᴄꜱꜱ3
+ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ & ʟɪʙʀᴀʀɪᴇꜱ: ʀᴇᴀᴄᴛ, ɴᴏᴅᴇ.ᴊꜱ, ᴇxᴘʀᴇꜱꜱ.ᴊꜱ
+ᴛᴏᴏʟꜱ & ᴘʟᴀᴛꜰᴏʀᴍꜱ: ɢɪᴛ, ɢɪᴛʜᴜʙ, ᴠꜱ ᴄᴏᴅᴇ
 
----
 
-## 🛠️ Tech Stack & Tools
+📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziddi-shop&#x26;show_icons=true&#x26;theme=radical&#x26;border_radius=20" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziddi-shop&#x26;theme=radical&#x26;border_radius=20" width="48%">
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziddi-shop&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true" width="40%">
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
 
----
 
-## 🎯 Current Stats
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziddi-shop&style=for-the-badge&color=FF4000&label=Profile+Views" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/ziddi-shop?style=for-the-badge&color=FF4000&labelColor=0D1117" alt="Followers">
-  <img src="https://img.shields.io/github/stars/ziddi-shop?style=for-the-badge&color=FF4000&labelColor=0D1117" alt="Stars">
-</div>
+🤝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-### 🌐 Find Me Online
-
-<a href="https://t.me/yknowxziddi">
-  <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30">
-</a>
-<a href="https://github.com/ziddi-shop">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30">
-</a>
-<a href="https://tg://openmessage?user_id=6110266480">
-  <img src="https://img.shields.io/badge/-Direct%20Message-FF4000?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30">
-</a>
-
-### 💬 Let's Chat About
-- 🚀 **Web Development** - Building amazing user experiences
-- 🔥 **Open Source** - Contributing to the community  
-- 💡 **Innovation** - Turning ideas into reality
-- 🎯 **Collaboration** - Working together on cool projects
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/ziddi-shop/ziddi-shop/blob/master/resources/hr.gif" width="100%">
   
-  ### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+    <img src="https://img.shields.io/badge/Support-Telegram-0088cc?style=for-the-badge&#x26;logo=telegram&#x26;logoColor=white">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF4000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+✨" alt="Closing Message">
-</div>
+  
+    <img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&#x26;logo=github&#x26;logoColor=white">
+  
+
+
+📫 ¢σηтα¢т мє
+
+  
+    <img src="https://img.shields.io/badge/Email-shehzadakingziddi@gmail.com-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white">
+  
+  
+    <img src="https://img.shields.io/badge/Telegram-t.me/nobi_shops-2CA5E0?style=for-the-badge&#x26;logo=telegram&#x26;logoColor=white">
+  
+
+
+🚀 𝚀𝚞𝚘𝚝𝚎
+
+  "ɢʀᴇᴀᴛ ᴄᴏᴅᴇ ᴛᴇʟʟꜱ ɪᴛꜱ ᴏᴡɴ ꜱᴛᴏʀʏ. ɪꜰ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴇxᴘʟᴀɪɴ ɪᴛ, ʏᴏᴜ ᴡʀᴏᴛᴇ ᴀ ʙᴜɢ, ɴᴏᴛ ᴀ ꜰᴇᴀᴛᴜʀᴇ." - 𝐳𝐢𝐝𝐝𝐢
+
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;color=FF6B00&#x26;height=120&#x26;section=footer">
