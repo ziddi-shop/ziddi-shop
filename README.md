@@ -19,12 +19,12 @@
 ---
 <h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 
-    name: "Ziddi Shop",
-    role: "Full Stack Developer",
-    location: "Digital World 🌍",
-    passion: ["Coding", "Innovation", "Open Source"],
-    currentFocus: "Building awesome projects",
-    funFact: "I debug with coffee ☕"
+    𝐧𝐚𝐦𝐞: 𝐙𝐢𝐝𝐝𝐢 𝐒𝐡𝐨𝐩,
+    𝐫𝐨𝐥𝐞: 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫,
+    𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧: 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐖𝐨𝐫𝐥𝐝 🌍,
+    𝐩𝐚𝐬𝐬𝐢𝐨𝐧: [𝐂𝐨𝐝𝐢𝐧𝐠, 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧, 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞],
+    𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐅𝐨𝐜𝐮𝐬: 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐰𝐞𝐬𝐨𝐦𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬,
+    𝐟𝐮𝐧𝐅𝐚𝐜𝐭: 𝐈 𝐝𝐞𝐛𝐮𝐠 𝐰𝐢𝐭𝐡 𝐜𝐨𝐟𝐟𝐞𝐞 ☕
 
 𝐈'𝐦 𝐚 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬, 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐧𝐠 𝐭𝐨 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞, 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬. 𝐈 𝐥𝐨𝐯𝐞 𝐭𝐮𝐫𝐧𝐢𝐧𝐠 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐫𝐞𝐚𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐝𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚 𝐜𝐮𝐩 𝐨𝐟 𝐜𝐨𝐟𝐟𝐞𝐞 𝐢𝐧 𝐡𝐚𝐧𝐝!
 
@@ -93,3 +93,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F75000&height=120&section=footer"/>
 </p>
+
+🚀 𝚀𝚞𝚘𝚝𝚎 "ɢʀᴇᴀᴛ ᴄᴏᴅᴇ ᴛᴇʟʟꜱ ɪᴛꜱ ᴏᴡɴ ꜱᴛᴏʀʏ. ɪꜰ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴇxᴘʟᴀɪɴ ɪᴛ, ʏᴏᴜ ᴡʀᴏᴛᴇ ᴀ ʙᴜɢ, ɴᴏᴛ ᴀ ꜰᴇᴀᴛᴜʀᴇ." - 𝐳𝐢𝐝𝐝𝐢 <img src="https://capsule-render.vercel.app/api?type=waving&#x26;color=FF6B00&#x26;height=120&#x26;section=footer">
