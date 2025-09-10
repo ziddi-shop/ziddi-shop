@@ -63,4 +63,4 @@ const ziddi = {
 "Great code tells its own story. If you need to explain it, you wrote a bug, not a feature."
 — Ziddi
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer"> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer"> </p>```
