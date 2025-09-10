@@ -19,7 +19,7 @@
 ---
 
 <h2 align="center">🌟 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
-javascript
+```javascript
 const ziddi = {
     name: "Ziddi Shop",
     role: "Full Stack Developer",
@@ -38,7 +38,7 @@ const ziddi = {
 🚀 ʙᴜɪʟᴅɪɴɢ ꜱᴄᴀʟᴀʙʟᴇ ꜱᴏʟᴜᴛɪᴏɴꜱ
 💡 ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ ᴛᴏ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ
 🎨 ᴅᴇꜱɪɢɴɪɴɢ ʙᴇᴀᴜᴛɪꜰᴜʟ ᴜꜱᴇʀ ɪɴᴛᴇʀꜰᴀᴄᴇꜱ
-📱 ᴍᴏʙɪʟᴇ ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
+📱 ᴍᴏʙɪʟᴇ ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ```
 
 ---
 
