@@ -52,11 +52,13 @@
 </p>
 
 
-<h2 align="center"> 👁️‍🗨️ Profile Views
+
+---
+### 👁️‍🗨️ Profile Views
 [![Profile Views](https://komarev.com/ghpvc/?username=ziddi-shop&label=Profile%20views&style=for-the-badge)](https://github.com/ziddi-shop)
 
-  </p>
 ---
+
 
 <h2 align="center">🤝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞</h2>
 
