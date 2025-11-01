@@ -51,6 +51,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziddi-shop&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
+<p align="center">
+  ### 👁️‍🗨️ Profile Views
+[![Profile Views](https://komarev.com/ghpvc/?username=ziddi-shop&label=Profile%20views&style=for-the-badge)](https://github.com/ziddi-shop)
 ---
 
 <h2 align="center">🤝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞</h2>
