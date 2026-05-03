@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=ziddi-shop&label=Profile%20Views&color=F75000&style=flat" alt="views"/>
   &nbsp;
-  <a href="https://t.me/nobi_shops">
+  <a href="https://t.me/meta_server">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
 </p>
@@ -31,7 +31,7 @@ class ZiddiShop:
     focus      = "Building awesome projects"
     fun_fact   = "I debug with coffee ☕"
     contact    = "shehzadakingziddi@gmail.com"
-    telegram   = "https://t.me/nobi_shops"
+    telegram   = "https://t.me/meta_server"
 
     def greet(self):
         return "Great code tells its own story 🚀"
@@ -93,7 +93,7 @@ class ZiddiShop:
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/nobi_shops">
+  <a href="https://t.me/meta_server">
     <img src="https://img.shields.io/badge/Telegram-%40nobi__shops-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   &nbsp;
